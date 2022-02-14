@@ -4,7 +4,12 @@ description: 'This resource is about Appendix: Some Introductory Notes to the Th
   of Plasticity.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/cc8666ddbff31fb41aad6956d0847db8_m5a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: m5a.pdf
+type: OCWFile
 uid: cc8666dd-bff3-1fb4-1aad-6956d0847db8
 ---

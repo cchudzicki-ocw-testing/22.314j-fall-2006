@@ -3,7 +3,12 @@ content_type: resource
 description: Solutions to assigned homework problems.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/08da01dab6425cf00375decbb8a448f2_problem8_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: problem8_sol.pdf
+type: OCWFile
 uid: 08da01da-b642-5cf0-0375-decbb8a448f2
 ---

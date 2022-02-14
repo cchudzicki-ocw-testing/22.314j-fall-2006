@@ -4,7 +4,12 @@ description: This resource contains text on modeling of the structural behavior 
   fuel elements and assemblies.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/ebe6d9e712502f7ca27f1857bb5947ec_f1_modeling.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: f1_modeling.pdf
+type: OCWFile
 uid: ebe6d9e7-1250-2f7c-a27f-1857bb5947ec
 ---

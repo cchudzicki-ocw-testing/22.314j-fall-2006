@@ -4,7 +4,12 @@ description: This resource contaions review of tensile behaviour of neutron-irra
   martensitic steels.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/003da84e900bf41db2baffb251570d7f_r5_tensile_behav.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: r5_tensile_behav.pdf
+type: OCWFile
 uid: 003da84e-900b-f41d-b2ba-ffb251570d7f
 ---
