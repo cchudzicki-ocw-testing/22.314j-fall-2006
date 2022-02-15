@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: ahn.pdf
-type: OCWFile
 uid: da6f1cbc-99d0-4755-4391-818067a21d83
 ---

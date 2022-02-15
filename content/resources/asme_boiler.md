@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: asme_boiler.pdf
-type: OCWFile
 uid: c764fcd4-b915-ae3c-df36-8fcbafa1edba
 ---

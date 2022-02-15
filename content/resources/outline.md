@@ -8,6 +8,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: outline.pdf
-type: OCWFile
 uid: d15e7fb4-b7ee-bacc-f999-9fd2d1fd5958
 ---

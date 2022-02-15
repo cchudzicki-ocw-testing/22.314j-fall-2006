@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: ellis.pdf
-type: OCWFile
 uid: ba808ae4-5977-6f4c-1011-99914101900b
 ---

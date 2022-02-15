@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: g1_beam_theory.pdf
-type: OCWFile
 uid: 7fb6c889-68a3-42f5-6c09-ba49f0c66478
 ---

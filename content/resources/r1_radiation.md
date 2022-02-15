@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: r1_radiation.pdf
-type: OCWFile
 uid: 51773510-a23d-0117-e1f8-35f48ecc5bae
 ---

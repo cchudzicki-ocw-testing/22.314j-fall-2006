@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: m8a.pdf
-type: OCWFile
 uid: b7280300-1203-3f91-3db7-9a5b41797572
 ---

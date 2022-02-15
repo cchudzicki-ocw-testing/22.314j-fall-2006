@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: g3_elasticity_theory.pdf
-type: OCWFile
 uid: 53529391-f257-3e6f-14d4-82f64e12516a
 ---

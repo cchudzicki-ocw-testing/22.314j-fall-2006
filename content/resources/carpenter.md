@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: carpenter.pdf
-type: OCWFile
 uid: 736d80e4-e6bf-84e4-0c9d-c3cff49be3fb
 ---

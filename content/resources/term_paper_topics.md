@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: term_paper_topics.pdf
-type: OCWFile
 uid: 69bc4ab3-16aa-a312-2ca6-5747771fbef8
 ---

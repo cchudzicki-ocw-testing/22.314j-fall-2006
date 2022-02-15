@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: class_a_vessel_.pdf
-type: OCWFile
 uid: 8dcd1206-b8f7-7723-ae3c-6441b7e79b9d
 ---

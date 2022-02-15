@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: problem3_sol.pdf
-type: OCWFile
 uid: b97cd38b-a06a-078a-5352-2e10149ef3b1
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: safety_margins.pdf
-type: OCWFile
 uid: 019534b8-cccd-e1da-1e59-d79c4cbe1359
 ---

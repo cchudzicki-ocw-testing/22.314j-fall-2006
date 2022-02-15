@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: problem1.pdf
-type: OCWFile
 uid: 95e89699-7997-1e1e-d542-7e5434668826
 ---

@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: tpc_d_dsgn_ruls.pdf
-type: OCWFile
 uid: 18e48833-0681-c4da-d282-627abb9ece70
 ---

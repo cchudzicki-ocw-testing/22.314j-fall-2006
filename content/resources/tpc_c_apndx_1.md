@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: tpc_c_apndx_1.pdf
-type: OCWFile
 uid: 18c48dd6-6fe3-5e6a-eeda-0dd3c82bdd6e
 ---

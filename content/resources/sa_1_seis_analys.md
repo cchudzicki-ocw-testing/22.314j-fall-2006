@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: sa_1_seis_analys.pdf
-type: OCWFile
 uid: 538184df-838f-77ab-ed62-49595a347bc8
 ---

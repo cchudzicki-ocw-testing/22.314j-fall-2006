@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: addendum_topic_e.pdf
-type: OCWFile
 uid: c5f4e776-89a8-0b0a-67fd-bc265c990b5f
 ---

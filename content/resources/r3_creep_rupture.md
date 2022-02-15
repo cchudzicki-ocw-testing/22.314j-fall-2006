@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: r3_creep_rupture.pdf
-type: OCWFile
 uid: e7bbb9ea-18e5-8d59-3b0f-e2d3f35026cd
 ---

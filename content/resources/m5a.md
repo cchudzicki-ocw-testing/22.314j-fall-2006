@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: m5a.pdf
-type: OCWFile
 uid: cc8666dd-bff3-1fb4-1aad-6956d0847db8
 ---

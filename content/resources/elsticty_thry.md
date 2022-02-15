@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: elsticty_thry.pdf
-type: OCWFile
 uid: 81956f02-ee79-ee95-0880-8bb525d41231
 ---

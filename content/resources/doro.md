@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: doro.pdf
-type: OCWFile
 uid: 10f77255-4752-18a8-604d-769c865f44b6
 ---

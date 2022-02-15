@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: r2_fatique_crack.pdf
-type: OCWFile
 uid: 778fede9-dec2-7605-e234-87a35c3986f3
 ---

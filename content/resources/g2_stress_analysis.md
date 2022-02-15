@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: g2_stress_analysis.pdf
-type: OCWFile
 uid: a155fba2-5d69-bf5b-5c98-36337ba8a18f
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: flaw_eval_meth_3.pdf
-type: OCWFile
 uid: 051b47d5-9f5e-b25a-d42a-52ed250726b8
 ---

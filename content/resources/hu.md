@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: hu.pdf
-type: OCWFile
 uid: f159757a-0c46-dd98-df78-1a6101c64ff2
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: beccherle.pdf
-type: OCWFile
 uid: 44208192-7cd4-ea13-0d2b-8a7053eb2b30
 ---

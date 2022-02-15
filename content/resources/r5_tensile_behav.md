@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: r5_tensile_behav.pdf
-type: OCWFile
 uid: 003da84e-900b-f41d-b2ba-ffb251570d7f
 ---

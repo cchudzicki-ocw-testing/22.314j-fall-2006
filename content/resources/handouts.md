@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: handouts.pdf
-type: OCWFile
 uid: ca127d44-caeb-83fd-84fc-1794ca7a7933
 ---

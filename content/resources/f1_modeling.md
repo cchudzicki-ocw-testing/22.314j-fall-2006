@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: f1_modeling.pdf
-type: OCWFile
 uid: ebe6d9e7-1250-2f7c-a27f-1857bb5947ec
 ---

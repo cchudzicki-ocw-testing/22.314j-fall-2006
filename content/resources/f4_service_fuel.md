@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: f4_service_fuel.pdf
-type: OCWFile
 uid: 7f1fd006-31c2-af1e-8fd1-ad2b6eab06a2
 ---
