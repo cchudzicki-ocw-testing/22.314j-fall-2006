@@ -4,6 +4,7 @@ description: Outline of lecture topics covered in the course.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/d15e7fb4b7eebaccf9999fd2d1fd5958_outline.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
