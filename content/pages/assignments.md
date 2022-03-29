@@ -70,7 +70,7 @@ Problem Set 5 ({{% resource_link 9efdc89a-d4de-d8bd-4d5e-a65a5d51cd1a "PDF" %}})
 Problem Set 6 ({{% resource_link cf48b09a-9d2f-09fe-9461-1ad26b210022 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 802b3f85-6eba-cbe2-4ab5-be7784178a76 "PDF" %}})
+({{% resource_link 802b3f85-6eba-cbe2-4ab5-be7784178a76 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +85,7 @@ Problem Set 7 ({{% resource_link a79dcfc9-00e6-a758-09b3-a6351e914319 "PDF" %}})
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 8 ({{% resource_link 0ac423eb-a2cf-a804-5e65-2aa80542e292 "PDF 1" %}}) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 6dd21d5e-3564-685f-06e1-373428bc6457 "PDF 2" %}})
+Problem Set 8 ({{% resource_link 0ac423eb-a2cf-a804-5e65-2aa80542e292 "PDF 1" %}}) ({{% resource_link 6dd21d5e-3564-685f-06e1-373428bc6457 "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 08da01da-b642-5cf0-0375-decbb8a448f2 "PDF" %}})
