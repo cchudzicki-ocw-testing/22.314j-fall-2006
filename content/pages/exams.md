@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Quiz with solution.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

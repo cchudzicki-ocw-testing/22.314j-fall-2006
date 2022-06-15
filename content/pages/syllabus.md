@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of instructors,teaching assistants,text,references
+  and grading system.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
